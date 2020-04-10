@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.AnaPanel.resources
+C:\Users\Furkan\source\repos\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.Properties.Resources.resources
+C:\Users\Furkan\source\repos\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NDP_Odev2\NDP_Odev2\bin\Debug\NDP_Odev2.exe.config
+C:\Users\Furkan\source\repos\NDP_Odev2\NDP_Odev2\bin\Debug\NDP_Odev2.exe
+C:\Users\Furkan\source\repos\NDP_Odev2\NDP_Odev2\bin\Debug\NDP_Odev2.pdb
+C:\Users\Furkan\source\repos\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.exe
+C:\Users\Furkan\source\repos\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.pdb
